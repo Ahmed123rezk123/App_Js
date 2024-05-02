@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    min-height: fit-content;
+    height: ;
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+}

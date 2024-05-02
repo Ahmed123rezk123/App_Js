@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+}
+header {
+    height: 70px;
+    background-color: gray;
+    padding: 10px 0;
+}
+.header-content {
+    display: flex;
+    justify-content: space-between;
+    /* align-items: center; */
+}
+.header-content .brand {
+    font-size: 30px;
+    color: white;
+    text-decoration: none;
+
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+}
+nav  li a {
+
+}
